@@ -1,5 +1,5 @@
 {
-    "name": "Stef/CrudContract",
+    "name": "stef/crud-contract",
     "description": "Base contract (interface) to setup a CRUD controller",
     "authors": [
         {
