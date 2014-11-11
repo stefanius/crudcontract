@@ -1,0 +1,17 @@
+{
+    "name": "Stef/CrudContract",
+    "description": "Base contract (interface) to setup a CRUD controller",
+    "authors": [
+        {
+            "name": "Stefanius",
+            "email": "sgrootveld@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { "Stef\\CrudContract\\": "src/Stef/CrudContract/" }
+    }
+}
